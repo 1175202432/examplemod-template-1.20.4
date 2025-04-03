@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "loyaltymod:block/high_energy_crystal_block_on"
+  }
+}
